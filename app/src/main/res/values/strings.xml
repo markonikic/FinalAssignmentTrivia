@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="HTPButton">Directions</string>
+    <string name="creditButton">Credits</string>
+    <string name="trivia">TRIVIA</string>
+    <string name="enterName">Enter Name...</string>
+
+    <string name="score">Score</string>
+
+    <string name="gameOver">Game Over!</string>
+    <string name="received">You have received </string>
+    <string name="points"> points.</string>
+    <string name="answered">You answered</string>
+    <string name="of"> of </string>
+    <string name="questions">questions correctly!</string>
+    <string name="greatJob">Great Job!</string>
+    <string name="continueBtn">Continue...</string>
+
+</resources>

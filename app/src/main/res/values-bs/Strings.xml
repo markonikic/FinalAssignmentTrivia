@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="HTPButton">Uputstva</string>
+    <string name="creditButton">Krediti</string>
+    <string name="trivia">TRIVIA</string>
+    <string name="enterName">Unesite ime ...</string>
+
+    <string name="score">Score</string>
+
+    <string name="gameOver">Igra je gotova!</string>
+    <string name="received">Dobili ste </string>
+    <string name="points"> bodova.</string>
+    <string name="answered">Odgovorio si</string>
+    <string name="of"> od </string>
+    <string name="questions">pitanja tačno!</string>
+    <string name="greatJob">Odličan posao!</string>
+    <string name="continueBtn">Nastavi ...</string>
+
+</resources>

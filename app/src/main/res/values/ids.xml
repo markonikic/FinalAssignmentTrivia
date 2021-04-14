@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="total_questions" type="id" />
+    <item name="correct_number" type="id" />
+    <item name="exit_score" type="id" />
+    <item name="textView" type="id" />
+    <item name="exit_trivia" type="id" />
+    <item name="exit_button" type="id" />
+</resources>
